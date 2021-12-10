@@ -13,5 +13,5 @@
  
  <img src="skills.png">
  
- CIAO
+ CIAO 👋
 
