@@ -4,10 +4,10 @@
 
  - 🔭 I’m currently working on React JS
  - 🌱 I’m currently learning Full Stack 
- 👯 I’m looking to collaborate on Web Developement / IOT Projects
- 💬 Ask me anything about Tech
- 📫 Reach me: gupta.ananay@gmail.com
- ⚡ Fun fact: There is no Fun 
+ - 👯 I’m looking to collaborate on Web Developement / IOT Projects
+ - 💬 Ask me anything about Tech
+ - 📫 Reach me: gupta.ananay@gmail.com
+ - ⚡ Fun fact: There is no Fun 
  
  My Skills Include :
  
