@@ -1,16 +1,14 @@
 ### Hi there 👋
+ 
+ This is Ananay Gupta aka NAYNAY. I am a way to be a Full Stack Developer, Linux and a IOT Enthusiast. I live on Tech.
 
-<!--
-**ananay-gupta/ananay-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔭 I’m currently working on React JS
+ 🌱 I’m currently learning Full Stack 
+ 👯 I’m looking to collaborate on Web Developement / IOT Projects
+ 💬 Ask me anything about Tech
+ 📫 Reach me: gupta.ananay@gmail.com
+ ⚡ Fun fact: There is no Fun 
+ 
+ My Skills Include :
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
