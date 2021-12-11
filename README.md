@@ -1,6 +1,6 @@
 ### Hi there 👋
  
- This is Ananay Gupta aka NAYNAY. I am a way to be a Full Stack Developer, Linux and a IOT Enthusiast. I live on Tech.
+ This is Ananay Gupta aka NAYNAY. I am on way to be a Full Stack Developer, Linux and a IOT Enthusiast. I live on Tech.
 
  - 🔭 I’m currently working on React JS
  - 🌱 I’m currently learning Full Stack 
