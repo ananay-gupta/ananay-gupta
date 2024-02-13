@@ -9,7 +9,7 @@
  - 📫 Reach me: gupta.ananay@gmail.com
  - ⚡ Fun fact: There is no Fun 
  
- My Skills Include :
+ My Skills and Achievements Include :
  
  <img src="skills and achievements.png">
  
