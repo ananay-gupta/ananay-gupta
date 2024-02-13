@@ -11,7 +11,7 @@
  
  My Skills Include :
  
- <img src="skills.png">
+ <img src="skills and achievements.png">
  
  CIAO 👋
 
